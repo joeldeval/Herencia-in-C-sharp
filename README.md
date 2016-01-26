@@ -1,4 +1,2 @@
-Tarea_Herencia
+Entendiendo Herencia en C#
 ==============
-
-Herencia
